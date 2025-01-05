@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.2" pages="4">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.3" pages="4">
   <diagram name="Page-1" id="a9uxS09-IT5_DhpIRI0Y">
     <mxGraphModel dx="1253" dy="1438" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -301,120 +301,114 @@
     </mxGraphModel>
   </diagram>
   <diagram id="RtyZDY7cnDYL-_UCThrc" name="Page-4">
-    <mxGraphModel dx="1253" dy="1438" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1444" dy="1140" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="5oq1VG4AQuf9viVr6fF--2" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;fillColor=#999999;" vertex="1" parent="1">
-          <mxGeometry x="10" y="70" width="810" height="930" as="geometry" />
+        <mxCell id="LaRQRtzl05fLznSORMRQ-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="340" y="960" width="490" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="5oq1VG4AQuf9viVr6fF--3" value="&lt;span style=&quot;caret-color: rgb(0, 0, 0); text-align: start;&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot; face=&quot;Helvetica&quot;&gt;&lt;b style=&quot;&quot;&gt;In 2024&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="30" y="80" width="140" height="60" as="geometry" />
+        <mxCell id="LaRQRtzl05fLznSORMRQ-11" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="340" y="840" width="490" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="5oq1VG4AQuf9viVr6fF--6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="350" y="70" width="460" height="90" as="geometry" />
+        <mxCell id="LaRQRtzl05fLznSORMRQ-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="340" y="720" width="490" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="5oq1VG4AQuf9viVr6fF--7" value="&lt;span style=&quot;caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-style: normal; font-variant-caps: normal; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none; float: none; display: inline !important;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;In 2023&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="30" y="180" width="140" height="60" as="geometry" />
+        <mxCell id="LaRQRtzl05fLznSORMRQ-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="340" y="600" width="490" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="5oq1VG4AQuf9viVr6fF--8" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;In 2021&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="LaRQRtzl05fLznSORMRQ-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="340" y="480" width="490" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="LaRQRtzl05fLznSORMRQ-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="340" y="360" width="490" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="5oq1VG4AQuf9viVr6fF--41" value="&lt;p style=&quot;margin: 0px 0px 1px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; line-height: normal;&quot; class=&quot;p1&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 17px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Review of the NIS Directive by the European Commission: Identified limitations and proposed new plans to include more critical sectors and enhance collaboration between Member States.&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="340" y="395" width="500" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LaRQRtzl05fLznSORMRQ-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="340" y="230" width="490" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="LaRQRtzl05fLznSORMRQ-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="340" y="120" width="490" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="5oq1VG4AQuf9viVr6fF--3" value="&lt;span style=&quot;caret-color: rgb(0, 0, 0); text-align: start;&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot; face=&quot;Helvetica&quot;&gt;&lt;b style=&quot;&quot;&gt;In 2024&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="30" y="15" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5oq1VG4AQuf9viVr6fF--7" value="&lt;span style=&quot;caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-style: normal; font-variant-caps: normal; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none; float: none; display: inline !important;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;In 2023&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="30" y="135" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5oq1VG4AQuf9viVr6fF--8" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;In 2021&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="30" y="380" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5oq1VG4AQuf9viVr6fF--9" value="&lt;b&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;In 2019&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="30" y="580" width="140" height="60" as="geometry" />
+        <mxCell id="5oq1VG4AQuf9viVr6fF--9" value="&lt;b&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;In 2019&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="30" y="615" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5oq1VG4AQuf9viVr6fF--10" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;In&amp;nbsp; May 2018&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="30" y="680" width="140" height="60" as="geometry" />
+        <mxCell id="5oq1VG4AQuf9viVr6fF--10" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;In&amp;nbsp; May 2018&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="30" y="735" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5oq1VG4AQuf9viVr6fF--11" value="&lt;span style=&quot;caret-color: rgb(0, 0, 0); text-align: start;&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot; face=&quot;Helvetica&quot;&gt;&lt;b&gt;In April 2018&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="30" y="780" width="140" height="60" as="geometry" />
+        <mxCell id="5oq1VG4AQuf9viVr6fF--11" value="&lt;span style=&quot;caret-color: rgb(0, 0, 0); text-align: start;&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot; face=&quot;Helvetica&quot;&gt;&lt;b&gt;In April 2018&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="30" y="855" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5oq1VG4AQuf9viVr6fF--12" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;In 2020&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="30" y="480" width="140" height="60" as="geometry" />
+        <mxCell id="5oq1VG4AQuf9viVr6fF--12" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;In 2020&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="30" y="495" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5oq1VG4AQuf9viVr6fF--13" value="&lt;span style=&quot;caret-color: rgb(0, 0, 0); text-align: start;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;In 2022&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="30" y="280" width="140" height="60" as="geometry" />
+        <mxCell id="5oq1VG4AQuf9viVr6fF--13" value="&lt;span style=&quot;caret-color: rgb(0, 0, 0); text-align: start;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;In 2022&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="30" y="255" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5oq1VG4AQuf9viVr6fF--14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="5oq1VG4AQuf9viVr6fF--12" target="5oq1VG4AQuf9viVr6fF--12">
+        <mxCell id="5oq1VG4AQuf9viVr6fF--14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="5oq1VG4AQuf9viVr6fF--12" target="5oq1VG4AQuf9viVr6fF--12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5oq1VG4AQuf9viVr6fF--16" value="&lt;span style=&quot;caret-color: rgb(0, 0, 0); text-align: start;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot; face=&quot;Helvetica&quot;&gt;&lt;b style=&quot;&quot;&gt;In 6 July 2016 - 17 April 2018&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="30" y="880" width="140" height="60" as="geometry" />
+        <mxCell id="5oq1VG4AQuf9viVr6fF--16" value="&lt;span style=&quot;caret-color: rgb(0, 0, 0); text-align: start;&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot; face=&quot;Helvetica&quot;&gt;&lt;b style=&quot;&quot;&gt;In 6 July 2016 - 17 April 2018&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="30" y="960" width="140" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="5oq1VG4AQuf9viVr6fF--17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="5oq1VG4AQuf9viVr6fF--2" target="5oq1VG4AQuf9viVr6fF--2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="5oq1VG4AQuf9viVr6fF--18" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontColor=default;entryX=0.279;entryY=0.002;entryDx=0;entryDy=0;endWidth=67.6923076923077;endSize=50.65;width=82.5;entryPerimeter=0;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" parent="1">
+        <mxCell id="5oq1VG4AQuf9viVr6fF--18" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontColor=default;endWidth=67.6923076923077;endSize=50.65;width=82.5;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="260.14" y="990" as="sourcePoint" />
-            <mxPoint x="260" y="69.99999999999967" as="targetPoint" />
+            <mxPoint x="260" y="1035" as="sourcePoint" />
+            <mxPoint x="260" y="5" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="260.14" y="530" />
+              <mxPoint x="260.14" y="525" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="5oq1VG4AQuf9viVr6fF--20" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="350" y="180" width="460" height="80" as="geometry" />
+        <mxCell id="5oq1VG4AQuf9viVr6fF--20" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="340" width="490" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="5oq1VG4AQuf9viVr6fF--21" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="350" y="280" width="460" height="80" as="geometry" />
+        <mxCell id="5oq1VG4AQuf9viVr6fF--28" value="&lt;span style=&quot;caret-color: rgb(0, 0, 0); text-align: start;&quot;&gt;&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 30px;&quot;&gt;NIS IMPLEMENTATION 2016-2024&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;fontStyle=1;fontSize=26;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="10" y="515" width="550" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5oq1VG4AQuf9viVr6fF--22" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="350" y="380" width="460" height="80" as="geometry" />
+        <mxCell id="5oq1VG4AQuf9viVr6fF--36" value="&lt;p style=&quot;margin: 0px 0px 1px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;;&quot; class=&quot;p1&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;In 17 October 2024: Official deadline for the transposition of the NIS2 Directive across the EU.&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="340" y="10" width="490" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5oq1VG4AQuf9viVr6fF--23" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="350" y="480" width="460" height="80" as="geometry" />
+        <mxCell id="5oq1VG4AQuf9viVr6fF--37" value="&lt;p style=&quot;margin: 0px 0px 1px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; line-height: normal;&quot; class=&quot;p1&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 17px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;First implementing regulation under NIS2: Expansion of critical sectors to include scientific research and postal services.&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="340" y="50" width="490" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5oq1VG4AQuf9viVr6fF--24" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="350" y="580" width="460" height="80" as="geometry" />
+        <mxCell id="5oq1VG4AQuf9viVr6fF--38" value="&lt;p style=&quot;margin: 0px 0px 1px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; line-height: normal;&quot; class=&quot;p1&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 17px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Transposition of the NIS2 Directive into national laws: Member States began integrating the NIS2 requirements and introduced stricter sanctions for non-compliance, including financial penalties.&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="350" y="165" width="470" as="geometry" />
         </mxCell>
-        <mxCell id="5oq1VG4AQuf9viVr6fF--25" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="350" y="680" width="460" height="80" as="geometry" />
+        <mxCell id="5oq1VG4AQuf9viVr6fF--39" value="&lt;p style=&quot;margin: 0px 0px 1px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; line-height: normal;&quot; class=&quot;p1&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 17px;&quot;&gt;Main goal: Harmonize cybersecurity measures across Members&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-size: 17px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;and increase the resilience of networks and information systems.&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="340" y="290" width="480" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5oq1VG4AQuf9viVr6fF--26" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="350" y="780" width="460" height="80" as="geometry" />
+        <mxCell id="5oq1VG4AQuf9viVr6fF--40" value="&lt;p style=&quot;margin: 0px 0px 1px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; line-height: normal;&quot; class=&quot;p1&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 17px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Formal adoption of the NIS2 Directive by the European Union on 27 December 2022, replacing the original NIS Directive.&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="340" y="240" width="500" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5oq1VG4AQuf9viVr6fF--27" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="350" y="880" width="460" height="80" as="geometry" />
+        <mxCell id="5oq1VG4AQuf9viVr6fF--42" value="&lt;p style=&quot;margin: 0px 0px 1px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; line-height: normal;&quot; class=&quot;p1&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Implementation of action plans by OES and DSP: Achieving NIS compliance through routine audits to ensure continuous compliance and improvements.&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="340" y="510" width="490" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5oq1VG4AQuf9viVr6fF--28" value="&lt;span style=&quot;caret-color: rgb(0, 0, 0); text-align: start;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;NIS IMPLEMENTATION 2016-2024&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;fontStyle=1;fontSize=26;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="70" y="580" width="430" height="30" as="geometry" />
+        <mxCell id="5oq1VG4AQuf9viVr6fF--43" value="&lt;p style=&quot;margin: 0px 0px 1px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; line-height: normal;&quot; class=&quot;p1&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 17px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;OES and DSP conducted self-assessments: Measured cybersecurity capabilities and developed action plans to address security gaps identified during assessments.&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="340" y="635" width="490" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5oq1VG4AQuf9viVr6fF--36" value="&lt;p style=&quot;margin: 0px 0px 1px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;; text-align: start;&quot; class=&quot;p1&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;17 October 2024: Official deadline for the transposition of the NIS2 Directive across the EU.&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="350" y="80" width="460" height="30" as="geometry" />
+        <mxCell id="5oq1VG4AQuf9viVr6fF--44" value="&lt;p style=&quot;margin: 0px 0px 1px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; line-height: normal;&quot; class=&quot;p1&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 17px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Compliance with NIS requirements: Became mandatory for Operators of Essential Services (OES) and Digital Service Providers (DSP).&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="340" y="750" width="490" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5oq1VG4AQuf9viVr6fF--37" value="&lt;p style=&quot;margin: 0px 0px 1px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; line-height: normal;&quot; class=&quot;p1&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;First implementing regulation under NIS2: Expansion of critical sectors to include scientific research and postal services.&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="350" y="120" width="460" height="30" as="geometry" />
+        <mxCell id="5oq1VG4AQuf9viVr6fF--45" value="&lt;p style=&quot;margin: 0px 0px 1px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; line-height: normal;&quot; class=&quot;p1&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 17px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;The NCSC released the Cyber Assessment Framework (CAF): A guideline for achieving compliance, focusing on identifying gaps in cybersecurity resilience and risk management within critical sectors.&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="340" y="870" width="490" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5oq1VG4AQuf9viVr6fF--38" value="&lt;p style=&quot;margin: 0px 0px 1px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; line-height: normal;&quot; class=&quot;p1&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Transposition of the NIS2 Directive into national laws: Member States began integrating the NIS2 requirements and introduced stricter sanctions for non-compliance, including financial penalties.&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="350" y="220" width="460" as="geometry" />
+        <mxCell id="5oq1VG4AQuf9viVr6fF--46" value="&lt;p style=&quot;margin: 0px 0px 1px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; line-height: normal;&quot; class=&quot;p1&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot; face=&quot;Helvetica&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;The NCSC published its national cybersecurity strategy (2016-2021): Aligned with EU objectives.&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="340" y="970" width="490" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5oq1VG4AQuf9viVr6fF--39" value="&lt;p style=&quot;margin: 0px 0px 1px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; line-height: normal;&quot; class=&quot;p1&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Main goal: Harmonize cybersecurity measures across Member States and increase the resilience of networks and information systems.&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="350" y="320" width="460" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="5oq1VG4AQuf9viVr6fF--40" value="&lt;p style=&quot;margin: 0px 0px 1px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; line-height: normal;&quot; class=&quot;p1&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Formal adoption of the NIS2 Directive by the European Union on 27 December 2022, replacing the original NIS Directive.&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="350" y="280" width="460" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="5oq1VG4AQuf9viVr6fF--41" value="&lt;p style=&quot;margin: 0px 0px 1px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; line-height: normal;&quot; class=&quot;p1&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Review of the NIS Directive by the European Commission: Identified limitations and proposed new plans to include more critical sectors and enhance collaboration between Member States.&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="350" y="410" width="460" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="5oq1VG4AQuf9viVr6fF--42" value="&lt;p style=&quot;margin: 0px 0px 1px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; line-height: normal;&quot; class=&quot;p1&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Implementation of action plans by OES and DSP: Achieving NIS compliance through routine audits to ensure continuous compliance and improvements.&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="350" y="505" width="460" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="5oq1VG4AQuf9viVr6fF--43" value="&lt;p style=&quot;margin: 0px 0px 1px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; line-height: normal;&quot; class=&quot;p1&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;OES and DSP conducted self-assessments: Measured cybersecurity capabilities and developed action plans to address security gaps identified during assessments.&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="350" y="605" width="460" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="5oq1VG4AQuf9viVr6fF--44" value="&lt;p style=&quot;margin: 0px 0px 1px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; line-height: normal;&quot; class=&quot;p1&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Compliance with NIS requirements: Became mandatory for Operators of Essential Services (OES) and Digital Service Providers (DSP).&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="350" y="705" width="460" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="5oq1VG4AQuf9viVr6fF--45" value="&lt;p style=&quot;margin: 0px 0px 1px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; line-height: normal;&quot; class=&quot;p1&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;The NCSC released the Cyber Assessment Framework (CAF): A guideline for achieving compliance, focusing on identifying gaps in cybersecurity resilience and risk management within critical sectors.&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="350" y="805" width="460" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="5oq1VG4AQuf9viVr6fF--46" value="&lt;p style=&quot;margin: 0px 0px 1px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; line-height: normal;&quot; class=&quot;p1&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Helvetica&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;The NCSC published its national cybersecurity strategy (2016-2021): Aligned with EU objectives.&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="350" y="880" width="460" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="5oq1VG4AQuf9viVr6fF--47" value="&lt;p style=&quot;margin: 0px 0px 1px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; line-height: normal;&quot; class=&quot;p1&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;NIS Directive officially adopted by the European Parliament: Marking the first implementing regulation under NIS.&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="350" y="920" width="460" height="30" as="geometry" />
+        <mxCell id="5oq1VG4AQuf9viVr6fF--47" value="&lt;p style=&quot;margin: 0px 0px 1px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; line-height: normal;&quot; class=&quot;p1&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 17px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;NIS Directive officially adopted by the European Parliament: Marking the first implementing regulation under NIS.&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="340" y="1010" width="490" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
