@@ -1,9 +1,144 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.5">
-  <diagram name="Page-1" id="JuzFYknQkKWUuDxb_rDP">
-    <mxGraphModel>
+  <diagram name="introduction" id="JuzFYknQkKWUuDxb_rDP">
+    <mxGraphModel dx="1640" dy="1650" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="0uiO-koIICDJmyfNqfmJ-2" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#666666;labelBackgroundColor=none;fontColor=default;fillColor=#f5f5f5;" edge="1" parent="1" target="0uiO-koIICDJmyfNqfmJ-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="5" y="-47.5" as="sourcePoint" />
+            <mxPoint x="162.4720000000001" y="-64.49999999999986" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0uiO-koIICDJmyfNqfmJ-3" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;In Portugal&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-104" y="-85" width="120" height="58.5" as="geometry" />
+        </mxCell>
+        <mxCell id="0uiO-koIICDJmyfNqfmJ-18" value="&lt;span style=&quot;font-family: -webkit-standard; font-size: 23px; text-align: start; caret-color: rgb(0, 0, 0);&quot;&gt;&lt;strong&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;Adaptation&lt;/font&gt;&lt;/strong&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-size: medium;&quot;&gt;:&lt;/span&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-family: -webkit-standard; font-size: 23px; text-align: start; caret-color: rgb(0, 0, 0);&quot;&gt;Portugal begin adaptation processes this year&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="187" y="-75" width="706" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0uiO-koIICDJmyfNqfmJ-19" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#666666;labelBackgroundColor=none;fontColor=default;fillColor=#f5f5f5;" edge="1" parent="1" target="0uiO-koIICDJmyfNqfmJ-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="5" y="33" as="sourcePoint" />
+            <mxPoint x="162.4720000000001" y="16.000000000000142" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0uiO-koIICDJmyfNqfmJ-20" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;2025&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-104" y="11" width="120" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="0uiO-koIICDJmyfNqfmJ-21" value="&lt;strong style=&quot;caret-color: rgb(0, 0, 0); text-align: start;&quot;&gt;&lt;font style=&quot;font-size: 23px; color: rgb(255, 255, 255);&quot;&gt;Ongoing Monitoring&lt;/font&gt;&lt;/strong&gt;&lt;div&gt;&lt;strong style=&quot;caret-color: rgb(0, 0, 0); text-align: start;&quot;&gt;&lt;span style=&quot;font-family: -webkit-standard; font-weight: 400;&quot;&gt;&lt;font style=&quot;font-size: 23px; color: rgb(255, 255, 255);&quot;&gt;Continuous evaluation and refinement of cybersecurity measures.&lt;/font&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="182" y="2.5" width="706" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0uiO-koIICDJmyfNqfmJ-31" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;strokeColor=#666666;labelBackgroundColor=none;fontColor=default;fillColor=#f5f5f5;" edge="1" parent="1" target="0uiO-koIICDJmyfNqfmJ-68">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="5" y="113" as="sourcePoint" />
+            <mxPoint x="192" y="112.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="104" y="113" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0uiO-koIICDJmyfNqfmJ-32" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;2024&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-104" y="91" width="120" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="0uiO-koIICDJmyfNqfmJ-34" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#666666;labelBackgroundColor=none;fontColor=default;fillColor=#f5f5f5;" edge="1" parent="1" target="0uiO-koIICDJmyfNqfmJ-67">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="5" y="193.5" as="sourcePoint" />
+            <mxPoint x="192" y="186.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0uiO-koIICDJmyfNqfmJ-35" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;2023&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-104" y="171.5" width="120" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="0uiO-koIICDJmyfNqfmJ-37" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#666666;labelBackgroundColor=none;fontColor=default;fillColor=#f5f5f5;" edge="1" parent="1" target="0uiO-koIICDJmyfNqfmJ-66">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="5" y="273" as="sourcePoint" />
+            <mxPoint x="192" y="268.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0uiO-koIICDJmyfNqfmJ-38" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;2022&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-104" y="251" width="120" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="0uiO-koIICDJmyfNqfmJ-40" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#666666;labelBackgroundColor=none;fontColor=default;fillColor=#f5f5f5;" edge="1" parent="1" target="0uiO-koIICDJmyfNqfmJ-63">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="5" y="353.5" as="sourcePoint" />
+            <mxPoint x="192" y="353" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0uiO-koIICDJmyfNqfmJ-41" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;2021&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-104" y="331.5" width="120" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="0uiO-koIICDJmyfNqfmJ-43" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#666666;labelBackgroundColor=none;fontColor=default;fillColor=#f5f5f5;" edge="1" parent="1" target="0uiO-koIICDJmyfNqfmJ-62">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="5" y="433" as="sourcePoint" />
+            <mxPoint x="192" y="426.75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0uiO-koIICDJmyfNqfmJ-44" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;2020&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-104" y="411" width="120" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="0uiO-koIICDJmyfNqfmJ-46" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;strokeColor=#666666;labelBackgroundColor=none;fontColor=default;fillColor=#f5f5f5;" edge="1" parent="1" target="0uiO-koIICDJmyfNqfmJ-60">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="5" y="513.5" as="sourcePoint" />
+            <mxPoint x="192" y="513" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0uiO-koIICDJmyfNqfmJ-47" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;2019&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-104" y="491.5" width="120" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="0uiO-koIICDJmyfNqfmJ-49" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#666666;labelBackgroundColor=none;fontColor=default;fillColor=#f5f5f5;" edge="1" parent="1" target="0uiO-koIICDJmyfNqfmJ-61">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3" y="591.5" as="sourcePoint" />
+            <mxPoint x="192" y="591" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0uiO-koIICDJmyfNqfmJ-50" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;2018&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-106" y="569.5" width="120" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="0uiO-koIICDJmyfNqfmJ-53" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;2016-2018&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-104" y="647" width="120" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="0uiO-koIICDJmyfNqfmJ-54" value="&lt;strong style=&quot;caret-color: rgb(0, 0, 0); text-align: start;&quot;&gt;&lt;font style=&quot;color: rgb(255, 255, 255); font-size: 23px;&quot;&gt;Publication of the NIS Directive.&lt;/font&gt;&lt;/strong&gt;&lt;div&gt;&lt;span style=&quot;caret-color: rgb(0, 0, 0); font-family: -webkit-standard; text-align: start; color: rgb(0, 0, 0);&quot;&gt;&lt;font style=&quot;color: rgb(255, 255, 255); font-size: 23px;&quot;&gt;Approved to strengthen cybersecurity across the EU.&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="182" y="635" width="706" height="80.5" as="geometry" />
+        </mxCell>
+        <mxCell id="0uiO-koIICDJmyfNqfmJ-55" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=20;curved=1;endWidth=44;width=44;labelBackgroundColor=none;strokeColor=#6c8ebf;fontColor=default;fillColor=#dae8fc;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-157" y="687.5" as="sourcePoint" />
+            <mxPoint x="-157" y="-89" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-157" y="316.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0uiO-koIICDJmyfNqfmJ-59" value="&lt;font style=&quot;color: rgb(0, 0, 0); font-size: 27px;&quot;&gt;&lt;b&gt;NIS IMPLEMENTATION 2016-2025&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;rotation=-90;labelBackgroundColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-460.5" y="293" width="543" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0uiO-koIICDJmyfNqfmJ-60" value="&lt;strong style=&quot;caret-color: rgb(0, 0, 0); text-align: start;&quot;&gt;&lt;font style=&quot;color: rgb(255, 255, 255); font-size: 23px;&quot;&gt;Mandatory Compliance&lt;/font&gt;&lt;/strong&gt;&lt;div&gt;&lt;span style=&quot;caret-color: rgb(0, 0, 0); font-family: -webkit-standard; text-align: start;&quot;&gt;&lt;font style=&quot;color: rgb(255, 255, 255); font-size: 23px;&quot;&gt;Essential Service Providers required to meet NIS standards.&lt;/font&gt;&lt;/span&gt;&lt;strong style=&quot;caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); text-align: start;&quot;&gt;&lt;/strong&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="187" y="483" width="706" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0uiO-koIICDJmyfNqfmJ-61" value="&lt;span style=&quot;font-family: -webkit-standard; font-size: 23px; text-align: start; caret-color: rgb(0, 0, 0);&quot;&gt;&lt;strong style=&quot;&quot;&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;Adaptation&lt;/font&gt;&lt;/strong&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-size: medium;&quot;&gt;:&lt;/span&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-family: -webkit-standard; font-size: 23px; text-align: start; caret-color: rgb(0, 0, 0);&quot;&gt;Member States begin adaptation processes&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="187" y="559" width="706" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0uiO-koIICDJmyfNqfmJ-62" value="&lt;strong style=&quot;caret-color: rgb(0, 0, 0); text-align: start;&quot;&gt;&lt;font style=&quot;font-size: 23px; color: rgb(255, 255, 255);&quot;&gt;Risk Assessments&lt;/font&gt;&lt;/strong&gt;&lt;div&gt;&lt;span style=&quot;caret-color: rgb(0, 0, 0); font-family: -webkit-standard; text-align: start;&quot;&gt;&lt;font style=&quot;font-size: 23px; color: rgb(255, 255, 255);&quot;&gt;Reviews and recommendations for improvements in critical sectors.&lt;/font&gt;&lt;/span&gt;&lt;strong style=&quot;caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); text-align: start;&quot;&gt;&lt;/strong&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="187" y="402.5" width="706" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0uiO-koIICDJmyfNqfmJ-63" value="&lt;strong style=&quot;caret-color: rgb(0, 0, 0); text-align: start;&quot;&gt;&lt;font style=&quot;font-size: 23px; color: rgb(255, 255, 255);&quot;&gt;Review of the NIS Directive&lt;/font&gt;&lt;/strong&gt;&lt;div&gt;&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font style=&quot;font-size: 23px; color: rgb(255, 255, 255);&quot;&gt;&lt;span style=&quot;caret-color: rgb(0, 0, 0); font-family: -webkit-standard;&quot;&gt;European Commission proposes NIS 2 to enhance resilience.&lt;/span&gt;&lt;span style=&quot;caret-color: rgb(0, 0, 0);&quot;&gt;&lt;b&gt;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;strong style=&quot;caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); text-align: start;&quot;&gt;&lt;br&gt;&lt;/strong&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="182" y="317.25" width="706" height="71.5" as="geometry" />
+        </mxCell>
+        <mxCell id="0uiO-koIICDJmyfNqfmJ-66" value="&lt;strong style=&quot;caret-color: rgb(0, 0, 0); text-align: start;&quot;&gt;&lt;font style=&quot;font-size: 23px; color: rgb(255, 255, 255);&quot;&gt;Formal Adoption of NIS 2&lt;/font&gt;&lt;/strong&gt;&lt;div&gt;&lt;strong style=&quot;caret-color: rgb(0, 0, 0); text-align: start;&quot;&gt;&lt;span style=&quot;font-family: -webkit-standard; font-weight: 400;&quot;&gt;&lt;font style=&quot;font-size: 23px; color: rgb(255, 255, 255);&quot;&gt;The European Union strengthens digital protection measures.&lt;/font&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="182" y="242.5" width="706" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0uiO-koIICDJmyfNqfmJ-67" value="&lt;strong style=&quot;caret-color: rgb(0, 0, 0); text-align: start;&quot;&gt;&lt;font style=&quot;font-size: 23px; color: rgb(255, 255, 255);&quot;&gt;Transposition into National Legislation&lt;/font&gt;&lt;/strong&gt;&lt;div&gt;&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font style=&quot;font-size: 23px; color: rgb(255, 255, 255);&quot;&gt;&lt;span style=&quot;caret-color: rgb(0, 0, 0); font-family: -webkit-standard;&quot;&gt;Member States align their laws with the NIS 2 Directive.&lt;/span&gt;&lt;span style=&quot;caret-color: rgb(0, 0, 0);&quot;&gt;&lt;b&gt;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;strong style=&quot;caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); text-align: start;&quot;&gt;&lt;br&gt;&lt;/strong&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="187" y="156" width="706" height="68.5" as="geometry" />
+        </mxCell>
+        <mxCell id="0uiO-koIICDJmyfNqfmJ-68" value="&lt;strong style=&quot;caret-color: rgb(0, 0, 0); text-align: start;&quot;&gt;&lt;font style=&quot;font-size: 23px; color: rgb(255, 255, 255);&quot;&gt;Final Implementation Deadline&lt;/font&gt;&lt;/strong&gt;&lt;div&gt;&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font style=&quot;font-size: 23px; color: rgb(255, 255, 255);&quot;&gt;&lt;span style=&quot;caret-color: rgb(0, 0, 0); font-family: -webkit-standard;&quot;&gt;Full enforcement with stricter measures in place.&lt;/span&gt;&lt;span style=&quot;caret-color: rgb(0, 0, 0);&quot;&gt;&lt;b&gt;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;strong style=&quot;caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); text-align: start;&quot;&gt;&lt;br&gt;&lt;/strong&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="182" y="71" width="706" height="73" as="geometry" />
+        </mxCell>
+        <mxCell id="0uiO-koIICDJmyfNqfmJ-69" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#666666;labelBackgroundColor=none;fontColor=default;fillColor=#f5f5f5;" edge="1" parent="1" target="0uiO-koIICDJmyfNqfmJ-54">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="9" y="676.33" as="sourcePoint" />
+            <mxPoint x="196" y="675.83" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
